@@ -1,0 +1,40 @@
+Material for the repository:
+
+\210618 - Emergengy-cleanup 
+   delay packets and optimizations issues.
+   In the test folder do a profiling of the whole thing. The last two state tranfer constitue the basis of all the scattering simulations.
+   Do not forget about the mathematica notebook.
+   
+   
+\210728 - Guillermo_Programs
+  Functions for import is pretty much the same as everywhere, make it complete and self-consistent. Perhaps call it differently.
+  210713 - Mode population and diffraction/ can be used to ilustrate and motivate the few photon limit and the dressed states (at list the population plot).
+  210720 - FSR State transfer/ contains nice plots about state transfer, we can probably use some more refined ones.
+  210720 - Lamb shifts/ Notebook that exclusively calculates Lamb shift. Could be interesting together with some theoy. (otherwise within other notebbok).
+  210720 - Phase gate Fidelity/ + 210726 - Asymmetry issues-Copy1/ are central to our theory, see redundancies and condense in a nice way.
+  210728 - Final plots/ beautiful plots but not the ones in the article (maybe worth including them).
+  \Old programs
+    Parameters regime/ interesting equations and plots about WG properties
+    Theory an latex equations/ also nice expressions and to ilustrate everything
+    
+   
+\210802 - Guillermo_Programs_Purcell **We can ignore this folder, it is completely contained in the following**
+
+  
+\210805 - NotebooksData_Figures
+  210726 - Asymmetry issues-Copy1/ Essential information, can be looked up from here or form Guillermo_Programs
+  210802 - Complete phase gate simulations/ Very important, it contains the optimization of chias well as some other features.
+  210802 - Purcell/ Super important notebook, really informative, it contains everything about the modified scattering.
+  210804-FinalPlotsRicardo/ Here is where the final lots of the article are.
+  
+
+\210804 - Ricardo_Python
+  210804_Scattering_Purcell_filter/ contains information worth looking (specially one plot of scattering).
+  210701_Diagonalization_CavityWVCavity_AdiabaticPassage/ Very important to understand the few modes regime.
+  210702_Diagonalization_CavityWVCavity_SechProtocols/
+  210616_MasterEquation_CompleteProcess/
+  
+  
+
+    
+    
